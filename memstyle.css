@@ -1,0 +1,23 @@
+html {
+    background-color: rgb(115, 115, 197);
+}
+
+div{
+    background-color: #9a9ac9;
+    text-align: center;
+   
+    
+}
+img {
+    border: 1px;
+    margin: 5px;
+    padding: 1px;
+
+}
+h1{
+    font: 50px helvetica;
+    text-align: center;
+}
+#score {
+    font: italic bold 16px Georgia, serif ;
+}
